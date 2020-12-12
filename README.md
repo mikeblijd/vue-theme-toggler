@@ -1,4 +1,4 @@
-# dark-mode
+# Theme toggle
 ## Dependencies
 vscode live sass compiler
 
